@@ -1,0 +1,9 @@
+﻿l_english:
+ demand_artifact_interaction_notification_refused:0 "[recipient.GetShortUINameNoTooltip|U] has refused to give you the [target.GetName]!"
+ DEMAND_ARTIFACT_PROPOSAL:0 "You have something that should legitimately belong to me. Relinquish [target.GetName] at once!"
+
+ REQUEST_ARTIFACT_COMBAT_TEXT:0 "You have something that should belong to me. Face me in a duel for [target.GetName], and let the winner earn the right to own it!"
+ challenge_to_artifact_combat_interaction_victor_gets.tt:0 "The Victor will keep or gain [target.GetName]"
+ challenge_to_artifact_combat_interaction_loser_gets.tt:0 "The Loser will lose [target.GetName] and any claim on it"
+ challenge_to_artifact_combat_interaction_loser_result.tt:0 "You lost your right to [target.GetName]"
+ challenge_to_artifact_combat_interaction_victor_result.tt:0 "You proved your right to [target.GetName]"
